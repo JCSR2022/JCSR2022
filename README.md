@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 
 Con gusto por la docencia, experiencia en proyectos de desarrollo industrial, desde proyectista dibujante hasta gerente de proyectos, en los últimos años he estado desarrollando un emprendimiento gastronómico familiar y especializándome en programación, ciencia de datos y el desarrollo de estrategias financieras de inversión en el trading. Recientemente finalice el bootcamp de Henry que me abrió un mundo de herramientas tecnológicas para el desarrollo en ciencia de datos, creo firmemente que la perseverancia en el estudio y el trabajo continuo son la clave para el éxito en todo lo que me proponga y así vivo el día a día. 
 <!-- 
