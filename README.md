@@ -5,6 +5,8 @@ My family gastronomic venture:
 http://instagram.com/cayenapepper
 
 You can see my data science projects on the repositories... hope you enjoy
+And and if you want more information about me you can visit
+LinkedIn: https://www.linkedin.com/in/jhonathan-santacana-886117a7
 
 
 <!-- 
