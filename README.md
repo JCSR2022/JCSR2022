@@ -1,8 +1,26 @@
 
-Bachelor in Electrical Engineering, experience as docent and industrial development projects, from draftsman to project manager, in recent years I have been developing a family gastronomic venture and specializing in programming, data science, and the development of financial investment and algorithmic trading strategies. Recently i am working on Fianacial Analisis calculators. I firmly believe that perseverance in study and continuous work are the keys to success in everything i set out to do and that's how I live the day to day.
+# ⚡ Electrical Engineer | Data Scientist & Cloud Enthusiast | AI & Analytics
 
-My family gastronomic venture:
-http://instagram.com/cayenapepper
+🎓 Bachelor’s degree in Electrical Engineering with experience as a lecturer and in industrial development projects, progressing from draftsman to project manager. Over the last few years, I have specialized in 💻 programming, 📊 data science, and ☁️ cloud technologies.
+
+🚀 I recently completed the Oracle Foundations program and I am currently expanding my expertise in cloud solution development, focusing on projects involving SQL-based data storage, business and data analysis, and interactive dashboards that provide operational visibility and support data-driven decision-making.
+
+## 🔍 Professional Interests & Areas of Focus
+
+* 🤖 Designing and implementing AI agents and automated workflows for reliability engineering use cases.
+* 📈 Building, maintaining, and improving enterprise data products, including usage dashboards, reliability metrics, and operational insights.
+* 🗄️ Working with large volumes of complex data while ensuring data quality, scalability, and reliability.
+* 🧠 Applying machine learning techniques — especially time series analysis and predictive models — to solve industrial challenges.
+* 🤝 Collaborating with multidisciplinary engineering and digital product teams to deliver production-ready solutions.
+* ☁️ Implementing scalable solutions in distributed and cloud-based environments.
+
+## 🌱 Currently Growing In
+
+* Cloud architecture and distributed systems
+* Data engineering and analytics workflows
+* AI-driven automation for industrial applications
+* Machine learning for predictive maintenance and reliability engineering
+
 
 You can see my data science projects on the repositories... hope you enjoy
 And and if you want more information about me you can visit
